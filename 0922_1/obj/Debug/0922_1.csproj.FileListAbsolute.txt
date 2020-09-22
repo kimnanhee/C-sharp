@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\0922_1\bin\Debug\0922_1.exe.config
+C:\Users\user\Desktop\C#\0922_1\bin\Debug\0922_1.exe
+C:\Users\user\Desktop\C#\0922_1\bin\Debug\0922_1.pdb
+C:\Users\user\Desktop\C#\0922_1\obj\Debug\0922_1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\0922_1\obj\Debug\_0922_1.Properties.Resources.resources
+C:\Users\user\Desktop\C#\0922_1\obj\Debug\0922_1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\0922_1\obj\Debug\0922_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\0922_1\obj\Debug\0922_1.exe
+C:\Users\user\Desktop\C#\0922_1\obj\Debug\0922_1.pdb
+C:\Users\user\Desktop\C#\0922_1\obj\Debug\_0922_1.Form1.resources
