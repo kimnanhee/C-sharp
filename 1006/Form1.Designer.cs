@@ -80,9 +80,9 @@
                 this.pictureBox2[i] = new System.Windows.Forms.PictureBox();
                 ((System.ComponentModel.ISupportInitialize)(this.pictureBox2[i])).BeginInit();
                 this.pictureBox2[i].Image = global::_1006.Properties.Resources.사과;
-                this.pictureBox2[i].Location = new System.Drawing.Point(30+(60*i), 30);
+                this.pictureBox2[i].Location = new System.Drawing.Point(30+(60*i), 30); // 위치 설정
                 this.pictureBox2[i].Name = "pictureBox2";
-                this.pictureBox2[i].Size = new System.Drawing.Size(50, 60);
+                this.pictureBox2[i].Size = new System.Drawing.Size(45, 50); // 크기 설정
                 this.pictureBox2[i].SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
                 this.pictureBox2[i].TabIndex = 2;
                 this.pictureBox2[i].TabStop = false;

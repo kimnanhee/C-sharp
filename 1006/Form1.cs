@@ -58,6 +58,7 @@ namespace _1006
             for(int i=0; i<10; i++) // 10개 움직이기
             {
                 pictureBox2[i].Top += 10;
+                if (pictureBox2[i].Top > 600) pictureBox2[i].Top = 0;
             }
         }
 
