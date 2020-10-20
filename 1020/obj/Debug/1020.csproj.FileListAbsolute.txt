@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\1020\bin\Debug\1020.exe.config
+C:\Users\user\Desktop\1020\bin\Debug\1020.exe
+C:\Users\user\Desktop\1020\bin\Debug\1020.pdb
+C:\Users\user\Desktop\1020\obj\Debug\1020.csprojAssemblyReference.cache
+C:\Users\user\Desktop\1020\obj\Debug\_1020.Form1.resources
+C:\Users\user\Desktop\1020\obj\Debug\_1020.Properties.Resources.resources
+C:\Users\user\Desktop\1020\obj\Debug\1020.csproj.GenerateResource.cache
+C:\Users\user\Desktop\1020\obj\Debug\1020.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1020\obj\Debug\1020.exe
+C:\Users\user\Desktop\1020\obj\Debug\1020.pdb
