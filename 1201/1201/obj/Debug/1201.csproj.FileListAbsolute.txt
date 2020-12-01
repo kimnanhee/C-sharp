@@ -1,0 +1,10 @@
+C:\Users\DSM\Desktop\1201\1201\bin\Debug\1201.exe.config
+C:\Users\DSM\Desktop\1201\1201\bin\Debug\1201.exe
+C:\Users\DSM\Desktop\1201\1201\bin\Debug\1201.pdb
+C:\Users\DSM\Desktop\1201\1201\obj\Debug\1201.csprojAssemblyReference.cache
+C:\Users\DSM\Desktop\1201\1201\obj\Debug\_1201.Form1.resources
+C:\Users\DSM\Desktop\1201\1201\obj\Debug\_1201.Properties.Resources.resources
+C:\Users\DSM\Desktop\1201\1201\obj\Debug\1201.csproj.GenerateResource.cache
+C:\Users\DSM\Desktop\1201\1201\obj\Debug\1201.csproj.CoreCompileInputs.cache
+C:\Users\DSM\Desktop\1201\1201\obj\Debug\1201.exe
+C:\Users\DSM\Desktop\1201\1201\obj\Debug\1201.pdb
