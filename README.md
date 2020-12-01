@@ -27,6 +27,7 @@ random으로 번호를 부여해서 생성하기
 1201
 
 ```
-ㅡㅈㄹ;
+naver papapgo API 사용하기
+textBox1에 써진 문장을 번역해서 textBox2에 출력하기
 ```
 
