@@ -1,0 +1,14 @@
+C:\Users\DSM\Desktop\1208\1208\bin\Debug\MLModel.zip
+C:\Users\DSM\Desktop\1208\1208\bin\Debug\1208.exe.config
+C:\Users\DSM\Desktop\1208\1208\bin\Debug\1208.exe
+C:\Users\DSM\Desktop\1208\1208\bin\Debug\1208.pdb
+C:\Users\DSM\Desktop\1208\1208\bin\Debug\1208ML.Model.dll
+C:\Users\DSM\Desktop\1208\1208\bin\Debug\1208ML.Model.pdb
+C:\Users\DSM\Desktop\1208\1208\obj\Debug\1208.csprojAssemblyReference.cache
+C:\Users\DSM\Desktop\1208\1208\obj\Debug\_1208.Form1.resources
+C:\Users\DSM\Desktop\1208\1208\obj\Debug\_1208.Properties.Resources.resources
+C:\Users\DSM\Desktop\1208\1208\obj\Debug\1208.csproj.GenerateResource.cache
+C:\Users\DSM\Desktop\1208\1208\obj\Debug\1208.csproj.CoreCompileInputs.cache
+C:\Users\DSM\Desktop\1208\1208\obj\Debug\1208.csproj.CopyComplete
+C:\Users\DSM\Desktop\1208\1208\obj\Debug\1208.exe
+C:\Users\DSM\Desktop\1208\1208\obj\Debug\1208.pdb

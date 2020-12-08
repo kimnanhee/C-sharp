@@ -1,0 +1,10 @@
+C:\Users\DSM\Desktop\1208\1208ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\DSM\Desktop\1208\1208ML.Model\bin\Debug\netstandard2.0\1208ML.Model.deps.json
+C:\Users\DSM\Desktop\1208\1208ML.Model\bin\Debug\netstandard2.0\1208ML.Model.dll
+C:\Users\DSM\Desktop\1208\1208ML.Model\bin\Debug\netstandard2.0\1208ML.Model.pdb
+C:\Users\DSM\Desktop\1208\1208ML.Model\obj\Debug\netstandard2.0\1208ML.Model.csprojAssemblyReference.cache
+C:\Users\DSM\Desktop\1208\1208ML.Model\obj\Debug\netstandard2.0\1208ML.Model.AssemblyInfoInputs.cache
+C:\Users\DSM\Desktop\1208\1208ML.Model\obj\Debug\netstandard2.0\1208ML.Model.AssemblyInfo.cs
+C:\Users\DSM\Desktop\1208\1208ML.Model\obj\Debug\netstandard2.0\1208ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\DSM\Desktop\1208\1208ML.Model\obj\Debug\netstandard2.0\1208ML.Model.dll
+C:\Users\DSM\Desktop\1208\1208ML.Model\obj\Debug\netstandard2.0\1208ML.Model.pdb
