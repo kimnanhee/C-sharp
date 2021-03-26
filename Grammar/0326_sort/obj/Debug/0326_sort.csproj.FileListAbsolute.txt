@@ -1,0 +1,7 @@
+C:\Users\DSM\Desktop\2021\Operating System\0326_sort\obj\Debug\0326_sort.csprojAssemblyReference.cache
+C:\Users\DSM\Desktop\2021\Operating System\0326_sort\obj\Debug\0326_sort.csproj.CoreCompileInputs.cache
+C:\Users\DSM\Desktop\2021\Operating System\0326_sort\bin\Debug\0326_sort.exe.config
+C:\Users\DSM\Desktop\2021\Operating System\0326_sort\bin\Debug\0326_sort.exe
+C:\Users\DSM\Desktop\2021\Operating System\0326_sort\bin\Debug\0326_sort.pdb
+C:\Users\DSM\Desktop\2021\Operating System\0326_sort\obj\Debug\0326_sort.exe
+C:\Users\DSM\Desktop\2021\Operating System\0326_sort\obj\Debug\0326_sort.pdb
