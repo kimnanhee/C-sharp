@@ -28,3 +28,13 @@ C:\Users\user\Documents\github\C-sharp\1013\obj\Debug\1006.pdb
 C:\Users\user\Documents\github\C-sharp\1013\bin\Debug\1006.exe.config
 C:\Users\user\Documents\github\C-sharp\1013\bin\Debug\1006.exe
 C:\Users\user\Documents\github\C-sharp\1013\bin\Debug\1006.pdb
+D:\Github\C-sharp\1013\bin\Debug\1006.exe.config
+D:\Github\C-sharp\1013\bin\Debug\1006.exe
+D:\Github\C-sharp\1013\bin\Debug\1006.pdb
+D:\Github\C-sharp\1013\obj\Debug\1006.csprojAssemblyReference.cache
+D:\Github\C-sharp\1013\obj\Debug\_1006.Form1.resources
+D:\Github\C-sharp\1013\obj\Debug\_1006.Properties.Resources.resources
+D:\Github\C-sharp\1013\obj\Debug\1006.csproj.GenerateResource.cache
+D:\Github\C-sharp\1013\obj\Debug\1006.csproj.CoreCompileInputs.cache
+D:\Github\C-sharp\1013\obj\Debug\1006.exe
+D:\Github\C-sharp\1013\obj\Debug\1006.pdb
