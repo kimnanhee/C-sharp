@@ -1,0 +1,13 @@
+C:\Users\DSM\Desktop\2021\Operating System\Bool\bin\Debug\netcoreapp3.1\Bool.exe
+C:\Users\DSM\Desktop\2021\Operating System\Bool\bin\Debug\netcoreapp3.1\Bool.deps.json
+C:\Users\DSM\Desktop\2021\Operating System\Bool\bin\Debug\netcoreapp3.1\Bool.runtimeconfig.json
+C:\Users\DSM\Desktop\2021\Operating System\Bool\bin\Debug\netcoreapp3.1\Bool.runtimeconfig.dev.json
+C:\Users\DSM\Desktop\2021\Operating System\Bool\bin\Debug\netcoreapp3.1\Bool.dll
+C:\Users\DSM\Desktop\2021\Operating System\Bool\bin\Debug\netcoreapp3.1\Bool.pdb
+C:\Users\DSM\Desktop\2021\Operating System\Bool\obj\Debug\netcoreapp3.1\Bool.csprojAssemblyReference.cache
+C:\Users\DSM\Desktop\2021\Operating System\Bool\obj\Debug\netcoreapp3.1\Bool.AssemblyInfoInputs.cache
+C:\Users\DSM\Desktop\2021\Operating System\Bool\obj\Debug\netcoreapp3.1\Bool.AssemblyInfo.cs
+C:\Users\DSM\Desktop\2021\Operating System\Bool\obj\Debug\netcoreapp3.1\Bool.csproj.CoreCompileInputs.cache
+C:\Users\DSM\Desktop\2021\Operating System\Bool\obj\Debug\netcoreapp3.1\Bool.dll
+C:\Users\DSM\Desktop\2021\Operating System\Bool\obj\Debug\netcoreapp3.1\Bool.pdb
+C:\Users\DSM\Desktop\2021\Operating System\Bool\obj\Debug\netcoreapp3.1\Bool.genruntimeconfig.cache

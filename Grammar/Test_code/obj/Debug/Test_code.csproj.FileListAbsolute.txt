@@ -1,0 +1,7 @@
+C:\Users\DSM\Desktop\2021 과제\운영체제\Test_code\bin\Debug\Test_code.exe.config
+C:\Users\DSM\Desktop\2021 과제\운영체제\Test_code\bin\Debug\Test_code.exe
+C:\Users\DSM\Desktop\2021 과제\운영체제\Test_code\bin\Debug\Test_code.pdb
+C:\Users\DSM\Desktop\2021 과제\운영체제\Test_code\obj\Debug\Test_code.csprojAssemblyReference.cache
+C:\Users\DSM\Desktop\2021 과제\운영체제\Test_code\obj\Debug\Test_code.csproj.CoreCompileInputs.cache
+C:\Users\DSM\Desktop\2021 과제\운영체제\Test_code\obj\Debug\Test_code.exe
+C:\Users\DSM\Desktop\2021 과제\운영체제\Test_code\obj\Debug\Test_code.pdb
