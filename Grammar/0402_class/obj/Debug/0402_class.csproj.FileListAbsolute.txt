@@ -1,0 +1,7 @@
+C:\Users\DSM\Desktop\2021\Operating System\0402_class\bin\Debug\0402_class.exe.config
+C:\Users\DSM\Desktop\2021\Operating System\0402_class\bin\Debug\0402_class.exe
+C:\Users\DSM\Desktop\2021\Operating System\0402_class\bin\Debug\0402_class.pdb
+C:\Users\DSM\Desktop\2021\Operating System\0402_class\obj\Debug\0402_class.csprojAssemblyReference.cache
+C:\Users\DSM\Desktop\2021\Operating System\0402_class\obj\Debug\0402_class.csproj.CoreCompileInputs.cache
+C:\Users\DSM\Desktop\2021\Operating System\0402_class\obj\Debug\0402_class.exe
+C:\Users\DSM\Desktop\2021\Operating System\0402_class\obj\Debug\0402_class.pdb
