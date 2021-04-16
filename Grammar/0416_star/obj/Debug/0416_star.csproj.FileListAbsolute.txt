@@ -1,0 +1,7 @@
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_star\obj\Debug\0416_star.csprojAssemblyReference.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_star\obj\Debug\0416_star.csproj.CoreCompileInputs.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_star\bin\Debug\0416_star.exe.config
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_star\bin\Debug\0416_star.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_star\bin\Debug\0416_star.pdb
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_star\obj\Debug\0416_star.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_star\obj\Debug\0416_star.pdb
