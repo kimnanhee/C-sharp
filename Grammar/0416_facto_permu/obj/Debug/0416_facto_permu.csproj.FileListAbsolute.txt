@@ -1,0 +1,7 @@
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_facto_permu\obj\Debug\0416_facto_permu.csprojAssemblyReference.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_facto_permu\obj\Debug\0416_facto_permu.csproj.CoreCompileInputs.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_facto_permu\bin\Debug\0416_facto_permu.exe.config
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_facto_permu\bin\Debug\0416_facto_permu.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_facto_permu\bin\Debug\0416_facto_permu.pdb
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_facto_permu\obj\Debug\0416_facto_permu.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0416_facto_permu\obj\Debug\0416_facto_permu.pdb
