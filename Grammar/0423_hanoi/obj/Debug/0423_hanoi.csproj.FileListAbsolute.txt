@@ -1,0 +1,7 @@
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0423_hanoi\obj\Debug\0423_hanoi.csprojAssemblyReference.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0423_hanoi\obj\Debug\0423_hanoi.csproj.CoreCompileInputs.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0423_hanoi\bin\Debug\0423_hanoi.exe.config
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0423_hanoi\bin\Debug\0423_hanoi.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0423_hanoi\bin\Debug\0423_hanoi.pdb
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0423_hanoi\obj\Debug\0423_hanoi.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0423_hanoi\obj\Debug\0423_hanoi.pdb
