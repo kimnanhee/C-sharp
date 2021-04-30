@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0430_hanoi_readfile", "0430_hanoi_readfile.csproj", "{BD09E749-6725-4B66-B4A7-0F31D1231959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD09E749-6725-4B66-B4A7-0F31D1231959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD09E749-6725-4B66-B4A7-0F31D1231959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD09E749-6725-4B66-B4A7-0F31D1231959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD09E749-6725-4B66-B4A7-0F31D1231959}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD482588-8159-43C6-8006-F6CB75E1788E}
+	EndGlobalSection
+EndGlobal

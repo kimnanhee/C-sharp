@@ -1,0 +1,7 @@
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_readfile\bin\Debug\0430_hanoi_readfile.exe.config
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_readfile\bin\Debug\0430_hanoi_readfile.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_readfile\bin\Debug\0430_hanoi_readfile.pdb
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_readfile\obj\Debug\0430_hanoi_readfile.csprojAssemblyReference.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_readfile\obj\Debug\0430_hanoi_readfile.csproj.CoreCompileInputs.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_readfile\obj\Debug\0430_hanoi_readfile.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_readfile\obj\Debug\0430_hanoi_readfile.pdb
