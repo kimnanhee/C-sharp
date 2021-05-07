@@ -1,0 +1,7 @@
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_writefile\bin\Debug\0430_hanoi_writefile.exe.config
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_writefile\bin\Debug\0430_hanoi_writefile.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_writefile\bin\Debug\0430_hanoi_writefile.pdb
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_writefile\obj\Debug\0430_hanoi_writefile.csprojAssemblyReference.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_writefile\obj\Debug\0430_hanoi_writefile.csproj.CoreCompileInputs.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_writefile\obj\Debug\0430_hanoi_writefile.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0430_hanoi_writefile\obj\Debug\0430_hanoi_writefile.pdb
