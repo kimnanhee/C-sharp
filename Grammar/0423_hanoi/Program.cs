@@ -43,7 +43,7 @@ namespace _0423_hanoi
         }
         public void move(int n, char from, char to)
         {
-            logger.WriteLog(n.ToString() + " : " + from + "->" + to);
+            logger.WriteLog(n.ToString() + " : " + from + to);
         }
         void hanoi(int n, char from, char to, char via)
         {
