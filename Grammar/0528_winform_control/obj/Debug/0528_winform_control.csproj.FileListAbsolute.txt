@@ -1,0 +1,10 @@
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\bin\Debug\0528_winform_control.exe.config
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\bin\Debug\0528_winform_control.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\bin\Debug\0528_winform_control.pdb
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\obj\Debug\0528_winform_control.csprojAssemblyReference.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\obj\Debug\_0528_winform_control.Form1.resources
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\obj\Debug\_0528_winform_control.Properties.Resources.resources
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\obj\Debug\0528_winform_control.csproj.GenerateResource.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\obj\Debug\0528_winform_control.csproj.CoreCompileInputs.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\obj\Debug\0528_winform_control.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0528_winform_control\obj\Debug\0528_winform_control.pdb
