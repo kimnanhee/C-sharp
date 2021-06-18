@@ -1,0 +1,10 @@
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\bin\Debug\0618_hanoi.exe.config
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\bin\Debug\0618_hanoi.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\bin\Debug\0618_hanoi.pdb
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\obj\Debug\0618_hanoi.csprojAssemblyReference.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\obj\Debug\_0618_hanoi.Form1.resources
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\obj\Debug\_0618_hanoi.Properties.Resources.resources
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\obj\Debug\0618_hanoi.csproj.GenerateResource.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\obj\Debug\0618_hanoi.csproj.CoreCompileInputs.cache
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\obj\Debug\0618_hanoi.exe
+C:\Users\nanhee\Desktop\Github\C-sharp\Grammar\0618_hanoi\obj\Debug\0618_hanoi.pdb
